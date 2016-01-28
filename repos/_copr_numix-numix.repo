@@ -1,0 +1,8 @@
+[numix-numix]
+name=Copr repo for numix owned by numix
+baseurl=https://copr-be.cloud.fedoraproject.org/results/numix/numix/fedora-$releasever-$basearch/
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/numix/numix/pubkey.gpg
+enabled=1
+enabled_metadata=1
